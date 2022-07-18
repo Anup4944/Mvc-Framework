@@ -1,0 +1,21 @@
+{
+    "name": "anupp/mvc",
+    "autoload": {
+        "psr-4": {
+            "Anupp\\Mvc\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Anup",
+            "email": "anuppoudel60@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+
+    },
+    "require": {}
+}
